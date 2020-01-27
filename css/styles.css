@@ -108,12 +108,12 @@ p {
 }
 
 .list {
-  margin: 0.6rem 0;
+  margin: 0.8rem 0;
   list-style: none;
 }
 
 .list li {
-  padding: 0.6rem 0;
+  padding: 0.8rem 0;
   border-bottom: 1px dotted #444;
 }
 
@@ -203,4 +203,16 @@ p {
 
 #who .who-img {
   background: url('../assets/people.jpg') no-repeat center center/cover;
+}
+
+/* Clients */
+
+#clients .items {
+  display: flex;
+}
+
+#clients .items img {
+  display: block;
+  margin: auto;
+  width: 60%;
 }
