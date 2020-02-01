@@ -14,9 +14,3 @@ function initMap() {
 
   const marker = new google.maps.Marker({ position: loc, map: map })
 }
-
-/* 
-  TODO: 
-  1: EXAMPLE 
-  2: ANOTHER ,
-*/
