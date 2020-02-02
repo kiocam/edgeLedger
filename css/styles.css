@@ -251,3 +251,8 @@ p {
   width: 100%;
   padding: 0.5rem;
 }
+
+#contact .contact-form .form-btn {
+  width: 34%;
+  margin-left: 15px;
+}
