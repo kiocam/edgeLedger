@@ -257,4 +257,8 @@ p {
   margin-left: 15px;
 }
 
+#contact .contact-form .form-btn:hover {
+  background-color: var(--text-primary);
+}
+
 /* Footer*/
