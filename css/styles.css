@@ -249,7 +249,8 @@ p {
 #contact .contact-form input,
 #contact .contact-form textarea {
   width: 100%;
-  padding: 0.5rem;
+  padding: 0.8rem;
+  border: 1px solid var(--text-primary-light);
 }
 
 #contact .contact-form .form-btn {
