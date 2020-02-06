@@ -131,7 +131,7 @@ p {
 
 #navbar {
   display: flex;
-  position: static;
+  position: sticky;
   top: 0;
   background: #333;
   color: #fff;
@@ -175,7 +175,7 @@ p {
   padding: 0 2rem;
   /* Overlay */
   position: absolute;
-  top: 69px;
+  top: 65px;
   left: 0;
   right: 0;
   bottom: 0;
