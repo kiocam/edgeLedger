@@ -1,4 +1,4 @@
-//Init and add map
+// Init and add map
 
 function initMap() {
   // Your Location

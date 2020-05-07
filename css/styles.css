@@ -175,7 +175,7 @@ p {
   padding: 0 2rem;
   /* Overlay */
   position: absolute;
-  top: 65px;
+  top: 70px;
   left: 0;
   right: 0;
   bottom: 0;
@@ -238,7 +238,7 @@ p {
   flex: 1;
 }
 
-#contact .contact-form h2{
+#contact .contact-form h2 {
   color: var(--text-primary);
 }
 
