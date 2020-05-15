@@ -8,6 +8,10 @@
   color: #0284d0;
 }
 
+.margin-bottom {
+  margin-bottom: 150px;
+}
+
 /* Button & background */
 
 .btn {
@@ -149,4 +153,3 @@
   max-width: 25%;
   padding: 0 4px;
 }
-
